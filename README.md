@@ -1,16 +1,18 @@
-# fudo_flutter_challenge
+Fudo Flutter Challenge
+========
 
-A new Flutter project.
+Aplicación en Flutter bien simple que consume la API JsonPlaceholder y muestra sus usuarios y posts. Además tiene una sección para crear un post nuevo.
 
-## Getting Started
+Requerimientos
+=============
+* Flutter
 
-This project is a starting point for a Flutter application.
+Instalación
+===========
+	git clone https://github.com/LucasFicarrotti/fudo_flutter_challenge.git
+	cd fudo_flutter_challenge
+	flutter run lib/main.dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+APK
+===========
+- [Descargar apk](https://drive.google.com/file/d/1yd2BNuXqL-rUiCwCyJ2CqidmjS0Nk-GO/view?usp=sharing)
